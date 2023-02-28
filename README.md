@@ -5,4 +5,4 @@ node.js 설치 필요
 
 실행 방법: 
 1. npm i
-2. node.js imageToSvg
+2. node imageToSvg
